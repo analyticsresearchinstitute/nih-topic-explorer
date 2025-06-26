@@ -4,7 +4,7 @@ This project presents an interactive visualization of research topics derived fr
 
 ## 🔍 What You Can Do
 
-- Explore NIH research topics across multiple levels of granularity (K = 5, 10, 15, 20)
+- Explore NIH research topics across multiple levels of granularity (K = 5, 10, 15, 20, 30)
 - See which topics receive the most applications
 - Understand which NIH Institutes and Centers (ICs) fund each topic
 - Download the underlying dataset
