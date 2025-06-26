@@ -12,7 +12,7 @@ This project presents an interactive visualization of research topics derived fr
 ## 📊 Visualizations
 
 Visit the project site:  
-👉 **[https://your-username.github.io/nih-topic-explorer](https://your-username.github.io/nih-topic-explorer)**
+👉 **[https://analyticsresearchinstitute.github.io/nih-topic-explorer](https://analyticsresearchinstitute.github.io/nih-topic-explorer)**
 
 ## 📄 Citation
 
