@@ -14,13 +14,14 @@ This project presents an interactive visualization of research topics derived fr
 Visit the project site:  
 👉 **[https://analyticsresearchinstitute.github.io/nih-topic-explorer](https://analyticsresearchinstitute.github.io/nih-topic-explorer)**
 
+<!--
 ## 📄 Citation
 
 If you use this tool or dataset, please cite:
 
 > (Replace following with actual info-->) Paula Fearon. *NIH Topic Explorer: Mapping Research Priorities in NIH-Funded Grants Using Topic Modeling.* arXiv preprint arXiv:xxxx.xxxxx, 2025.  
 > [https://arxiv.org/abs/xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx)
-
+-->
 ## 📁 Files
 
 - `index.html`: Main web page with embedded charts
